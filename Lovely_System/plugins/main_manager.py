@@ -319,8 +319,8 @@ async def reject(event):
 help_plus = """
 Here is the help for **Main**:
 Commands:
-    `scan` - Reply to a message WITH reason to send a request to Inspectors/Lovely for judgement
-    `approve` - Approve a scan request (Only works in Lovely System Base)
+    `scan` - Reply to a message WITH reason to send a request to Inspectors/Shadow for judgement
+    `approve` - Approve a scan request (Only works in Shadow System Base)
     `revert` or `revive` or `restore` - Ungban ID
     `qproof` - Get quick proof from database for given user id
     `proof` - Get message from proof id which is at the end of gban msg
