@@ -42,7 +42,7 @@ async def make_proof(user: Union[str, int]):
 
 @System.bot.on(events.NewMessage(pattern="[/!]start"))
 async def sup(event):
-    await event.reply("✯𝙻𝚘𝚟𝚎𝚕𝚢 𝚂𝚢𝚜𝚝𝚎𝚖 𝙸𝚜 𝙾𝚗𝚕𝚒𝚗𝚎✯")
+    await event.reply("✯ 𝚂𝙴𝙽𝙺𝚄 𝚇 𝚂𝚈𝚂𝚃𝙴𝙼 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴 ✯")
 
 
 
