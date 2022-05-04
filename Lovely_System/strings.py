@@ -1,6 +1,6 @@
 on_string = """
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-Connected To ShadowXSystem
+Connected To SENKUXSystem
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ╒═══「 ✪USER_INFO 」
 ┏━ ✪ Name:  `{name}`
