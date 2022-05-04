@@ -1,26 +1,26 @@
    
 help_plus = """ Here is Help for **Bancodes** :-
-**✯** `{LXSx00}` **SCAMMER.**
-**✯** `{LXSx01}` **SPAM ADDING MEMBER.**
-**✯** `{LXSx03}` **ABUSE SPAM.**
-**✯** `{LXSx04}` **NSFW SPAMMER.**
-**✯** `{LXSx06}` **IMPERSONATION.**
-**✯** `{LXSx07}` **MD/BTC SCAM.**
-**✯** `{LXSx08}` **ADDING SPAMBOTS.**
-**✯** `{LXSx10}` **ILLEGAL.**
-**✯** `{LXSx11}` **PHISHING.**
-**✯** `{LXSx12}` **FRAUD PROMOTION  [ANY KIND].**
-**✯** `{LXSx13}` **CYBER THREATENING / CYBER BULLY.**
-**✯** `{LXSx14}` **CHILD ABUSE.**
-**✯** `{LXSx15}` **BAN EVASION.**
-**✯** `{LXSx16}` **SPAMBOT.**
-**✯** `{LXSx17}` **RAID INITIALIZOR.** 
-**✯** `{LXSx18}` **RAID PARTICIPANT.**
-**✯** `{LXSx19}` **KRIMINALANT.**
-**✯** `{LXSx20}` **SPAMMING VIOLENT CONTENT.**
-**✯** `{LXSx21}` **HATE SPEECH AGAINST NATIONALITY.**
-**✯** `{LXSx22}` **RAID/SPAM INFLAMMER.**
-**✯** `{LXSx23}` **PRONOGRAPHY CCONTENT PROMOTING.**
-**✯** `{LXSx24}` **PAID GIRL.**
+**✯** `{SENx00}` **SCAMMER.**
+**✯** `{SENx01}` **SPAM ADDING MEMBER.**
+**✯** `{SENx03}` **ABUSE SPAM.**
+**✯** `{SENx04}` **NSFW SPAMMER.**
+**✯** `{SENx06}` **IMPERSONATION.**
+**✯** `{SENx07}` **MD/BTC SCAM.**
+**✯** `{SENx08}` **ADDING SPAMBOTS.**
+**✯** `{SENx10}` **ILLEGAL.**
+**✯** `{SENx11}` **PHISHING.**
+**✯** `{SENx12}` **FRAUD PROMOTION  [ANY KIND].**
+**✯** `{SENx13}` **CYBER THREATENING / CYBER BULLY.**
+**✯** `{SENx14}` **CHILD ABUSE.**
+**✯** `{SENx15}` **BAN EVASION.**
+**✯** `{SENx16}` **SPAMBOT.**
+**✯** `{SENx17}` **RAID INITIALIZOR.** 
+**✯** `{SENx18}` **RAID PARTICIPANT.**
+**✯** `{SENx19}` **KRIMINALANT.**
+**✯** `{SENx20}` **SPAMMING VIOLENT CONTENT.**
+**✯** `{SENx21}` **HATE SPEECH AGAINST NATIONALITY.**
+**✯** `{SENx22}` **RAID/SPAM INFLAMMER.**
+**✯** `{SENx23}` **PRONOGRAPHY CCONTENT PROMOTING.**
+**✯** `{SENx24}` **PAID GIRL.**
 """
 __plugin_name__ = "bancodes"
