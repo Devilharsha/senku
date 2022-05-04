@@ -41,7 +41,7 @@ for load in to_load:
         print("------------------------------------")
 
 
-@System.on(system_cmd(pattern=r"status", allow_enforcer=True))
+@System.on(system_cmd(pattern=r"Senku", allow_enforcer=True))
 async def status(event):
     msg = await event.client.send_file(event.chat_id, file="https://telegra.ph//file/fe646f824247cc377c60a.mp4", caption="Analysing......", reply_to=event)
     time.sleep(1)
@@ -65,7 +65,7 @@ async def status(event):
     await msg.edit(on_string.format(Enforcer=user_status, name=sender.first_name))
 
 
-@System.on(system_cmd(pattern=r"Lovely stats"))
+@System.on(system_cmd(pattern=r"Senku stats"))
 async def stats(event):
     msg = f"Processed {System.processed} messages since last restart."
     msg += f"\n{len(ENFORCERS)} Enforcers & {len(INSPECTORS)} Inspectors"
