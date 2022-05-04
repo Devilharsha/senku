@@ -175,7 +175,7 @@ async def revive(event):
     ):
         await a.edit("User is not gbanned.")
         return
-    await a.edit("Revert request sent to Lovely. This might take 10minutes or so.")
+    await a.edit("Revert request sent to Senku. This might take 10minutes or so.")
 
 
 @System.on(system_cmd(pattern=r"Lovely logs"))
@@ -319,8 +319,8 @@ async def reject(event):
 help_plus = """
 Here is the help for **Main**:
 Commands:
-    `scan` - Reply to a message WITH reason to send a request to Inspectors/Shadow for judgement
-    `approve` - Approve a scan request (Only works in Shadow System Base)
+    `scan` - Reply to a message WITH reason to send a request to Inspectors/SENKU for judgement
+    `approve` - Approve a scan request (Only works in Senku System Base)
     `revert` or `revive` or `restore` - Ungban ID
     `qproof` - Get quick proof from database for given user id
     `proof` - Get message from proof id which is at the end of gban msg
