@@ -68,7 +68,8 @@ Lovely is under active development and some future plans include
 >Why not getting list of all module instead of manually putting module in to_load?
 - I don't want people from uniborg or ftg or other userbots to put their plugins (those weird animation ones or useless ones) in Lovely X System
 
-#### Credits
+## ✨ Deploy to Heroku ✨
 
-- [Lovely Prince](https://github.com/DarlingPrince) : Dev
-- [Kittu](https://t.me/Kittu_the_criminalll) : Dev
+ᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘʟᴏʏ sᴄʀᴇᴇɴ ᴏғ ʜᴇʀᴏᴋᴜ ғɪʟʟ ᴀ ᴠᴀʀs ɴᴏᴡ ʙᴏᴛ ʀᴜɴs ʜᴇʀᴏᴋᴜ!
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Devilharsha/senku"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
