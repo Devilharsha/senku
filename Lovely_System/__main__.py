@@ -43,7 +43,7 @@ for load in to_load:
 
 @System.on(system_cmd(pattern=r"status", allow_enforcer=True))
 async def status(event):
-    msg = await event.client.send_file(event.chat_id, file="https://telegra.ph/file/d611603431f2540f1ae9d.mp4", caption="Analysing......", reply_to=event)
+    msg = await event.client.send_file(event.chat_id, file="https://telegra.ph//file/fe646f824247cc377c60a.mp4", caption="Analysing......", reply_to=event)
     time.sleep(1)
     await msg.edit("Initialising ✦✧✧✧✧✧")
     time.sleep(1)
